@@ -1,0 +1,6 @@
+.destaque__foto {
+    border-radius: 50%;
+    width: 368px;
+    height: 368px;
+    display: flex;
+}

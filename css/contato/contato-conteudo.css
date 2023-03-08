@@ -1,0 +1,6 @@
+.contato__conteudo {
+    display: flex;
+    flex-direction: column;
+    height: 596px;
+    /* border: 1px solid blueviolet; */
+}

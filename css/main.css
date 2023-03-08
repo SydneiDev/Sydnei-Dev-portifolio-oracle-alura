@@ -1,0 +1,86 @@
+@import url('../css/base/reset.css');
+@import url('../css/base/normalize.css');
+@import url('../css/base/container.css');
+@import url('../css/base/style.css');
+@import url('../css/base/botao.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&family=Raleway:wght@300;400;500;700&display=swap');
+
+
+@import url('../css/cabecalho/cabecalho.css');
+@import url('../css/cabecalho/cabecalho-titulo-logo.css');
+@import url('../css/cabecalho/cabecalho-logo.css');
+@import url('../css/cabecalho/cabecalho-titulo.css');
+
+@import url('../css/menu/menu.css');
+@import url('../css/menu/menu-lista.css');
+@import url('../css/menu/menu-item.css');
+@import url('../css/menu/menu-link.css');
+
+@import url('../css/destaque/destaque.css');
+@import url('../css/destaque/destaque-texto.css');
+@import url('../css/destaque/destaque-titulo.css');
+@import url('../css/destaque/destaque-descricao.css');
+@import url('../css/destaque/destaque-foto.css');
+
+@import url('../css/redes-social/rede-social.css');
+@import url('../css/redes-social/rede-social__lista.css');
+@import url('../css/redes-social/rede-social__item.css');
+@import url('../css/redes-social/rede-social__link.css');
+
+@import url('../css/sobre/sobre.css');
+@import url('../css/sobre/sobre-container.css');
+
+@import url('../css/skills-hobbies/skills-hobbies.css');
+@import url('../css/skills-hobbies/skills-hobbies_espacamento.css');
+
+@import url('../css/skills-hobbies/skills/skills.css');
+@import url('../css/skills-hobbies/skills/skills-titulo.css');
+@import url('../css/skills-hobbies/skills/skills-geral.css');
+@import url('../css/skills-hobbies/skills/skills-bloco.css');
+@import url('../css/skills-hobbies/skills/skills-itens.css');
+@import url('../css/skills-hobbies/skills/skills-icones.css');
+
+@import url('../css/skills-hobbies/hobbies/hobbies.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-titulo.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-geral.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-bloco.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-itens.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-icones.css');
+
+@import url('../css/formacao-academica/formacao.css');
+@import url('../css/formacao-academica/formacao_titulo-principal.css');
+@import url('../css/formacao-academica/formacao-geral.css');
+@import url('../css/formacao-academica/formacao-bloco.css');
+@import url('../css/formacao-academica/formacao-quadrado.css');
+@import url('../css/formacao-academica/formacao-imagem.css');
+@import url('../css/formacao-academica/formacao-conteudo.css');
+@import url('../css/formacao-academica/formacao-titulo.css');
+@import url('../css/formacao-academica/formacao-descricao.css');
+
+@import url('../css/experiencia/experiencia.css');
+@import url('../css/experiencia/experiencia_titulo-principal.css');
+@import url('../css/experiencia/experiencia-bloco.css');
+@import url('../css/experiencia/experiencia-imagem.css');
+@import url('../css/experiencia/experiencia-conteudo.css');
+@import url('../css/experiencia/experiencia-titulo.css');
+@import url('../css/experiencia/experiencia-descricao.css');
+@import url('../css/experiencia/experiencia-botao.css');
+
+@import url('../css/contato/contato.css');
+@import url('../css/contato/contato-geral.css');
+@import url('../css/contato/contato-imagem.css');
+@import url('../css/contato/contato-conteudo.css');
+@import url('../css/contato/contato-titulo.css');
+@import url('../css/contato/contato-descricao.css');
+@import url('../css/contato/contato-form.css');
+@import url('../css/contato/contato-input.css');
+@import url('../css/contato/contato-nome.css');
+@import url('../css/contato/contato-email.css');
+@import url('../css/contato/contato-assunto.css');
+@import url('../css/contato/contato-mensagem.css');
+@import url('../css/contato/contato-botao.css');
+
+@import url('../css/rodape/rodape.css');
+@import url('../css/rodape/rodape-titulo.css');
+@import url('../css/rodape/rodape-descricao.css');

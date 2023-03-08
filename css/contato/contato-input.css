@@ -1,0 +1,23 @@
+.contato__input {
+    margin-bottom: 32px;
+    width: 656px;
+    height: 53px;
+    padding-left: 8px;
+
+}
+
+.contato__input {
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid #C8C8C8;
+    
+}
+
+.contato__input:focus {
+    outline: none;
+    border-color: #2A7AE4;
+}
+
+.contato__input:valid {
+    border-color: #1a9b06;
+}

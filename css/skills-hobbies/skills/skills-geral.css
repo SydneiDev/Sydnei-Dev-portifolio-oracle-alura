@@ -1,0 +1,4 @@
+.skills__geral {
+    display: flex;
+    justify-content: space-around;
+}

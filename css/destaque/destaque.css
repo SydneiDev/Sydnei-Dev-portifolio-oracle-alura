@@ -1,0 +1,7 @@
+.destaque {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}

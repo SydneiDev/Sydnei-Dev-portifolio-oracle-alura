@@ -1,0 +1,11 @@
+.botao {
+    padding: 1rem;
+    font-size: 1rem;
+    color: #2A7AE4;
+    border: 1px solid #2A7AE4;
+}
+
+.botao-azul {
+    color: white;
+    background: #2A7AE4;
+}

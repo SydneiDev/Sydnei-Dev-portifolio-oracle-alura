@@ -1,0 +1,6 @@
+.contato__geral {
+    display:flex;
+    justify-content: space-around;
+    padding-top: 64px;
+    height: 596px;
+}

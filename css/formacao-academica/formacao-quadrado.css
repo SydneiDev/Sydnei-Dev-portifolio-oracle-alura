@@ -1,0 +1,9 @@
+.formacao__quadrado {
+    background: white;
+    width: 368px;
+    height: 286px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
